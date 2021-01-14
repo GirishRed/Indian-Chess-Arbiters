@@ -1,0 +1,102 @@
+*{
+    margin: 10px 30px 10px 30px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.navmain{
+    background-color: black;
+    color: white; 
+   
+}
+.hiddeninfo{
+    display: none;
+}
+.nav_ul {
+    list-style-type: none;
+    text-align: center;
+    padding: 12px;
+    
+}
+.nav_li {
+    display: inline;   
+}
+.nav_links {
+    text-decoration: none;
+    color: white;
+    margin: 4px;
+    padding: 2px;
+}
+
+/* .searchbar {
+    display: inline;
+  position: relative;
+  left: 968px;
+  top: -9px;
+    margin: 0px;
+    
+   border: 2px solid greenyellow;
+   padding: 0%;
+} */
+
+.searchb, .searchbutton {
+    padding: 2px;
+    margin: 0px;
+}
+
+.first_section{
+    
+     
+}
+
+.parent, .item{
+    
+    display: inline-block;
+    padding: 0px;
+    margin: 0px;
+    
+    
+    
+    
+    /* overflow-x: auto; */
+}
+
+.one, .two, .three, .four, .five, .six, .seven, .eight {
+    height: 190px;
+    width: 190px;
+    border-radius: 50%;
+    border: 2px solid;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
+.title {
+   
+    display: inline-block;
+
+    border-bottom:  2px solid black ;
+    
+}
+
+hr {
+    margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
